@@ -24,7 +24,7 @@ const Banner = () => {
         <Image
           sx={styles.bannerIcon2}
           className="bannerIcon"
-          alt="banner icons"
+          alt="banner icon"
           src={bannerIcon2}
         />
         <Image
