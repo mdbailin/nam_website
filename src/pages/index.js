@@ -26,7 +26,6 @@ export default function IndexPage() {
           <Services />
           <WhyMe />
           <Pricing />
-          <Blogs />
           <Testimonials />
           <FAQ />
         </Layout>
