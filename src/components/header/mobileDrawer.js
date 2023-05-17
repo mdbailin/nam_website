@@ -54,7 +54,7 @@ const MobileDrawer = () => {
 
           <Box sx={styles.menuFooter}>
             <Button variant="primary" sx={styles.button}>
-              Purchase Now
+              Email Me
             </Button>
           </Box>
         </Box>
