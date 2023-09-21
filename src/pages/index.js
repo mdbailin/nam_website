@@ -21,7 +21,7 @@ export default function IndexPage() {
     <ThemeProvider theme={theme}>
       <StickyProvider>
         <Layout>
-          <SEO title="Nam Hoang" />
+          <SEO title="Nam Project" />
           <Banner />
           <Services />
           <WhyMe />
