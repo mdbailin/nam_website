@@ -12,7 +12,7 @@ export default function Logo({ image }) {
         alignItems: 'center',
       }}
     >
-      <h2>N Project</h2>
+      <h2>N Projects</h2>
     </Link>
   );
 }
